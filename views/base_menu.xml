@@ -1,0 +1,3 @@
+<odoo>
+<menuitem id="fcm_menuitem" name="FCM Token" web_icon="fcm_notifications,static\description\icon.png"/>
+</odoo>
